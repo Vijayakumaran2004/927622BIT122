@@ -1,0 +1,16 @@
+/drive_sample/node_modules
+/place_sample/node_modules
+/drive_sample/.pnp
+/place_sample/.pnp
+/drive_sample/.pnp.js
+/place_sample/.pnp.js
+drive_sample/coverage
+place_sample/coverage
+drive_sample/build
+place_sample/build
+drive_sample/.DS_Store
+place_sample/.DS_Store
+drive_sample/.env.local
+place_sample/.env.local
+drive_sample/.env.development.local
+place_sample/.env.development.local
